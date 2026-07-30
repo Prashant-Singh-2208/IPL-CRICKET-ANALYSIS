@@ -46,11 +46,11 @@ A comprehensive data analysis of the **Indian Premier League (IPL)** cricket tou
 ---
 
 ##  Key Visualizations
-1. Top 10 Teams by Win Count (Bar Chart)
-2. Top 10 Run Scorers (Horizontal Bar)
-3. Top 10 Wicket Takers (Bar Chart)
-4. Toss Decision vs Match Outcome (Count Plot)
-5. Season-wise Average Score Trend (Line Chart)
+1. Top 10 Teams by Win Count ( Bar Chart).
+2. Top 10 Batsmen ( Bar Chart).
+4. Toss Decision vs Match Outcome (Bar Chart).
+5. Average Score in Powerplay ( Bar Chart).
+6. Dismissal Type (Pie Chart).
 
 ---
 
